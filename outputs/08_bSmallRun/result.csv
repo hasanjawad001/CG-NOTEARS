@@ -1,0 +1,4 @@
+﻿ntrials,sample,node,edge,graph,SEM,hiddenU,l1,l2,wthresh,lr,cthresh,fdr,shd,tpr,nnz
+1,40,3,2,ER,mlp,1,0,0,0.3,0.1,0,0.5000 ± 0.0000,1.0000 ± 0.0000,0.5000 ± 0.0000,2.0000 ± 0.0000
+1,40,3,2,ER,mlp,1,0,0,0.3,0.1,50,1.0000 ± 0.0000,3.0000 ± 0.0000,0.0000 ± 0.0000,2.0000 ± 0.0000
+1,40,3,2,ER,mlp,1,0,0,0.3,0.1,100,nan ± nan,nan ± nan,nan ± nan,nan ± nan
