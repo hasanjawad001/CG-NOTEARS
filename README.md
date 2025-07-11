@@ -30,6 +30,8 @@ We achieve this by:
 
 - **NOTEARS (Causal Discovery)**  
   GitHub: [xunzheng/notears](https://github.com/xunzheng/notears)  
-  Paper: [arXiv:1909.13189](https://arxiv.org/abs/1909.13189)
+  Papers:  
+  • [DAGs with NOTEARS – Zheng et al., 2018](https://arxiv.org/abs/1803.01422)  
+  • [ID-SP with NOTEARS – Yu et al., 2019](https://arxiv.org/abs/1909.13189) 
 
 ---
