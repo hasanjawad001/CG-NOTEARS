@@ -31,7 +31,7 @@ We achieve this by:
 - **NOTEARS (Causal Discovery)**  
   GitHub: [xunzheng/notears](https://github.com/xunzheng/notears)  
   Papers:  
-  • [DAGs with NOTEARS – Zheng et al., 2018](https://arxiv.org/abs/1803.01422)  
-  • [ID-SP with NOTEARS – Yu et al., 2019](https://arxiv.org/abs/1909.13189) 
+  • [arxiv:1803.01422](https://arxiv.org/abs/1803.01422)  
+  • [arxiv:1909.13189](https://arxiv.org/abs/1909.13189) 
 
 ---
